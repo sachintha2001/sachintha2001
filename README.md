@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090E17,35:123B70,70:5B2EFF,100:00D4FF&height=230&section=header&text=Sachintha%20Dhanasanka&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=First-Class%20BSc%20Graduate%20%7C%20Software%20Engineer%20%7C%20AI%20%26%20IoT&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Animated gradient profile banner"/>
+<img src="./assets/hero-banner.png" width="100%" alt="3D-style developer hero banner"/>
 
 <a href="https://www.sachintha.site">
   <img src="https://img.shields.io/badge/Portfolio-sachintha.site-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
