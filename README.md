@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.png" width="100%" alt="3D-style developer hero banner"/>
+<img src="./assets/hero-banner.svg" width="100%" alt="3D-style developer hero banner"/>
 
 <a href="https://www.sachintha.site">
   <img src="https://img.shields.io/badge/Portfolio-sachintha.site-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
