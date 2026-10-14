@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Sachintha Dhanasanka — 3D Developer Hero</title>
+  <desc id="desc">A dark neon blue and purple 3D-inspired developer profile banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060b14"/><stop offset=".5" stop-color="#0b1d34"/><stop offset="1" stop-color="#21114b"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#40eaff"/><stop offset=".55" stop-color="#6275ff"/><stop offset="1" stop-color="#c16cff"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#183d61"/><stop offset="1" stop-color="#10152a"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#1d9cff" stop-opacity=".45"/><stop offset="1" stop-color="#1d9cff" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="9" flood-color="#000" flood-opacity=".65"/></filter>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <ellipse cx="920" cy="150" rx="310" ry="190" fill="url(#glow)" filter="url(#blur)"/>
+  <g opacity=".17" stroke="#43dfff" stroke-width="1">
+    <path d="M650 0L1010 340M720 0L1080 340M790 0L1150 340M860 0L1200 300M670 340L1010 0M780 340L1120 0M890 340L1200 30"/>
+    <path d="M610 60H1200M610 110H1200M610 160H1200M610 210H1200M610 260H1200M610 310H1200"/>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M880 70l76-42 76 42v88l-76 44-76-44z" fill="#0f1d36" stroke="url(#edge)" stroke-width="2"/>
+    <path d="M880 70l76 45 76-45M956 115v87" fill="none" stroke="#4ce7ff" stroke-opacity=".65" stroke-width="2"/>
+    <path d="M928 83l28-16 28 16v32l-28 16-28-16z" fill="url(#face)" stroke="#9b72ff" stroke-width="2"/>
+    <path d="M928 83l28 17 28-17M956 100v31" fill="none" stroke="#51dbff" stroke-width="1.5"/>
+    <path d="M1038 205l42-24 42 24v49l-42 24-42-24z" fill="#111b36" stroke="#a16dff" stroke-width="2"/>
+    <path d="M1038 205l42 25 42-25M1080 230v48" fill="none" stroke="#66eaff" stroke-width="1.5"/>
+    <path d="M754 220l36-20 36 20v42l-36 21-36-21z" fill="#0c2742" stroke="#22d3ee" stroke-width="2"/>
+    <path d="M754 220l36 22 36-22M790 242v41" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(100 61)">
+    <text x="0" y="0" fill="#67e8f9" font-family="monospace" font-size="15" letter-spacing="4">PORTFOLIO / SOFTWARE ENGINEERING</text>
+    <text x="-2" y="72" fill="#8b5cf6" opacity=".55" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">Sachintha</text>
+    <text x="-2" y="66" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">Sachintha</text>
+    <text x="0" y="124" fill="url(#edge)" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="800">Dhanasanka</text>
+    <text x="2" y="163" fill="#dbe7fb" font-family="Arial, Helvetica, sans-serif" font-size="22">Software Engineer  |  AI &amp; IoT Enthusiast</text>
+    <rect x="0" y="188" width="390" height="43" rx="12" fill="#10243b" stroke="url(#edge)" stroke-width="1.5"/>
+    <path d="M19 210l10-10 10 10-10 10z" fill="#67e8f9"/>
+    <text x="50" y="215" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">FIRST-CLASS BSc GRADUATE</text>
+    <text x="2" y="265" fill="#a9bbd5" font-family="monospace" font-size="15">BUILD  •  LEARN  •  INNOVATE</text>
+  </g>
+  <g transform="translate(1090 68)" filter="url(#shadow)">
+    <rect x="0" y="0" width="68" height="42" rx="8" fill="#111c33" stroke="#4fdcff" stroke-width="1.5"/>
+    <path d="M13 14h42M13 22h29M13 30h35" stroke="#7bdff8" stroke-width="2" stroke-linecap="round"/>
+    <rect x="-13" y="58" width="88" height="57" rx="9" fill="#171333" stroke="#a879ff" stroke-width="1.5"/>
+    <circle cx="9" cy="76" r="4" fill="#64e8ff"/><circle cx="23" cy="76" r="4" fill="#a879ff"/><circle cx="37" cy="76" r="4" fill="#64e8ff"/>
+    <path d="M0 92h45M0 101h29" stroke="#d6c7ff" stroke-opacity=".8" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <path d="M60 304H1140" stroke="url(#edge)" stroke-opacity=".55"/>
+  <circle cx="60" cy="304" r="3" fill="#67e8f9"/><circle cx="1140" cy="304" r="3" fill="#b58cff"/>
+</svg>
